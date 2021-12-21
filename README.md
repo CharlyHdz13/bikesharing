@@ -17,5 +17,6 @@ Moving forward a heatmap of the amount of trips divided by day and hour is shown
 
 The following visualization, shows the breakdown by gender of the previous heatmap and it shows that both female and male have the same behavior. 
 
-
+Finally the last visualization shows the number of trips divided by gender, customer type (Customer or Subscriber) and day of the week. Most of the users of the bikes are subscribers and the peak day is Thursday. This is visible in the male side, also the number of customers is pretty low compared to subscribers, perhaps because it is easier to use the bikes being a subscriber with just an app.
 ## Summary
+As a quick summary the Citi bike sharing program is predominantly popular with male users, nevertheless, female users follow the same pattern as the male. Therefore, I would suggest an investigation onto why is this the case. Is it something social, cultural or perhaps the program suits better the needs of male users. Also the number of subscribers is pretty good perhaps this will be good for the startup in Des Moines. Also the people use the bikes to move predominantly throught the center of the city for trips that only last around five minutes. To end this summary I would suggest create visualizations that track the route followed by the users and look onto which stations are the most popular for end of routes at the morning to and at the end of the day when everyone wants to return home from work.
